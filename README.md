@@ -35,10 +35,11 @@ SZM压缩算法是一种专门用于压缩WSI（Whole Slide Image）的无损压
 第三步 针对图像的所有像素点进行差值编码和熵编码。
 
 扩展（可继续针对已有编码进行哈夫曼编码或lzw编码）
+## 实验
+未完待续...
 
-
-
-
-
-
+## 压缩效果
+<center class="half">
+    <img src="https://github.com/Baitlo/SZM/assets/165011236/9003188d-5b87-4a34-8b06-71701687665c" width="200"/><img src="https://github.com/Baitlo/SZM/assets/165011236/93978dbf-a07f-4969-b02d-8c454719715d" width="200"><img src="https://github.com/Baitlo/SZM/assets/165011236/ebefa2e1-4c1a-44e2-8cf8-4b29cdd445a5" width="200"/><img src="https://github.com/Baitlo/SZM/assets/165011236/5901bb42-b0bf-4182-9a89-2bf0b4fe7f0d" width="200"/>
+</center>
 
