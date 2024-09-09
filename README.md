@@ -1,4 +1,4 @@
-# 一种针对WSI的无损压缩算法—SVM
+# 一种针对WSI的无损压缩算法—SZM
 
 SZM压缩算法是一种专门用于压缩WSI（Whole Slide Image）的无损压缩算法。
 
